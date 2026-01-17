@@ -11,6 +11,8 @@ This repository contains various plugins and extensions for different purposes.
 | 42     | 🍕   |
 | 17     | 🍔   |
 | 89     | 🍜   |
+| 63     | 🌮   |
+| 25     | 🍰   |
 
 ## Structure
 
