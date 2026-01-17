@@ -6,6 +6,12 @@ A collection of plugins and extensions.
 
 This repository contains various plugins and extensions for different purposes.
 
+| Number | Food |
+|--------|------|
+| 42     | 🍕   |
+| 17     | 🍔   |
+| 89     | 🍜   |
+
 ## Structure
 
 ```
